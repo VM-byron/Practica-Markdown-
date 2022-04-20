@@ -6,3 +6,4 @@
 
 ![edificios](https://images.unsplash.com/photo-1650435331525-b97ee2590c3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyM3x8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60)
 
+Procesamiento de datos georáficos se está volviendo enredado
